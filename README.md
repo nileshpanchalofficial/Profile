@@ -75,7 +75,7 @@ More projects coming soon…
 ## 📬 Contact Me
 
 * **Email:** [![Gmail Badge](https://img.shields.io/badge/-nileshpanchalofficial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nileshpanchalofficial@gmail.com)](mailto:nileshpanchalofficial@gmail.com.com)
-* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-Nilesh%20Panchal-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nileshpanchalofficial/)](https://www.linkedin.com/in/nileshpanchalofficial/)
+* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-nileshpanchalofficial-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nileshpanchalofficial/)](https://www.linkedin.com/in/nileshpanchalofficial/)
 * **Mobile:** +91 8806309141
 
 ---
